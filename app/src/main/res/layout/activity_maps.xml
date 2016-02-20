@@ -64,7 +64,9 @@
     android:layout_height="wrap_content"
     android:layout_gravity="center_horizontal"
         android:layout_above="@+id/linbotton"
-        android:id="@+id/linlat">
+        android:id="@+id/linlat"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp">
     <TextView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -90,7 +92,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_alignParentBottom="true"
-        android:id="@+id/linbotton">
+        android:id="@+id/linbotton"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp">
 
         <TextView
             android:layout_width="0dp"
