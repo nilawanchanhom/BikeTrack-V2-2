@@ -57,7 +57,8 @@
         android:orientation="horizontal"
         android:layout_weight="0.72"
         android:layout_alignParentBottom="true"
-        android:id="@+id/lin2">
+        android:id="@+id/lin2"
+        android:layout_marginBottom="5dp">
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -78,7 +79,7 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_gravity="center_vertical"
-            android:layout_weight="3" />
+            android:layout_weight="5" />
 
 
 
