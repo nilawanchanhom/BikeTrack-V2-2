@@ -21,7 +21,7 @@ public class SplashScreen extends AppCompatActivity {
                 startActivity(new Intent(SplashScreen.this,Login.class));
                 finish();
             }
-        },7000);
+        },3000);
         MediaPlayer mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.sound);
         mediaPlayer.start();
 
