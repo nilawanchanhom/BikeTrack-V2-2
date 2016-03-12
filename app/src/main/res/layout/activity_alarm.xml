@@ -74,7 +74,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/Balarmoff"
-            android:layout_alignParentBottom="false"
+
             android:background="@drawable/alarmoff"
             android:layout_below="@+id/Balarmon" />
     </LinearLayout>
